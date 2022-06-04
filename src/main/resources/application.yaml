@@ -1,0 +1,4 @@
+facebook-application:
+  access-token: ""
+  verify-token: ""
+  message-url: "https://graph.facebook.com/v2.6/me/messages?access_token="
